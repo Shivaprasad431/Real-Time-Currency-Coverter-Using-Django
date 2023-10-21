@@ -1,0 +1,21 @@
+/* static/css/styles.css */
+
+/* static/css/styles.css */
+
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    color: #007bff;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input {
+    margin-bottom: 10px;
+}
